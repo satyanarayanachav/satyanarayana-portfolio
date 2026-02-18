@@ -1,0 +1,7 @@
+d /mnt/okcomputer/output/app
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/YOURUSERNAME/satyanarayana-portfolio.git
+git push -u origin main
+npm run deploy
